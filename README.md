@@ -1,6 +1,5 @@
 <div align='center'>
 
-<img src=https://i.imgur.com/GNKDRoW.png alt="logo" width= height= />
 
 <h1>Roblox Executor</h1>
 <p>KrampDown is an easy method to downgrade Roblox.</p>
