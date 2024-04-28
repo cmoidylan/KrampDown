@@ -1,0 +1,4 @@
+zipfile
+requests
+psutil
+colorama
