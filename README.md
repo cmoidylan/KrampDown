@@ -12,7 +12,8 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-
+- </span> <a href="https://github.com/pizzaboxer/bloxstrap"> Install BloxStrap </a
+- - </span> <a href="https://store.codex.lol?rcid=cst_fbb56706f9d4fc66778f31"> Buy Krampus ( ROEXEC ) </a
 
 ## :star2: About the Project
 
