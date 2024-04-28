@@ -172,14 +172,6 @@ def mainwindows():
                 info("Please rerun the program and press 1 to downgrade your version")
                 os.system("pause")
                 os._exit(1)
-
-
-
-
-
-
-        
-
     except KeyboardInterrupt:
         error("KeyboardInterrupt")
         time.sleep(5)
