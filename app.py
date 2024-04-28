@@ -5,8 +5,6 @@ import zipfile
 import time
 from datetime import datetime
 import psutil
-
-import wget
 VERSION = 1.1
 # Color
 RESET = Fore.RESET
